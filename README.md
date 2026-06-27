@@ -43,5 +43,5 @@ An interactive Power BI dashboard featuring high-level corporate KPIs, a monthly
 ---
 
 ### Dashboard Preview
-![Dashboard Preview](YOUR_UPLOADED_IMAGE_NAME.png)
+![Dashboard Preview](Dashboard_Preview.png)
 *(Note: Change 'YOUR_UPLOADED_IMAGE_NAME.png' to the exact name of the screenshot file you uploaded to this folder, like 'image_f56ce9.png')*
